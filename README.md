@@ -59,7 +59,7 @@ SecureVault allows the user to specify the length of the password they want to g
 If you would like to contribute to this project, please fork the repository and submit a pull request. We welcome any contributions or suggestions!
 
 ## Authors
-- [@arpitsengar99](https://www.github.com/arpitsengar99)
+- [@arpy8](https://www.github.com/arpy8)
 
 
 
