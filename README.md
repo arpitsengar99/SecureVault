@@ -29,7 +29,7 @@ SecureVault allows the user to specify the length of the password they want to g
 </table>
 
 ## Demo
-<img src="assets/demo.gif" alt="demo-gif"  height="380">
+<img src="assets/demo.gif" height="380">
 
 ## Installation
 1. Clone the repository to your local machine.
