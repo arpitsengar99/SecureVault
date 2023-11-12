@@ -1,7 +1,7 @@
 ![Header](assets/banner.png)
 
 # SecureVault - Password Manager
-SecureVault is a secure and convenient way to store all of your login information for various websites and applications. The app you have made in Python is designed to help users easily save, manage and access their passwords, while keeping them safe from prying eyes.
+SecureVault is a secure and convenient way to store all of your login information for various websites and applications. The app is designed to help users easily save, manage and access their passwords, while keeping them safe from prying eyes.
 
 The app interface is simple and intuitive, with options for users to add, edit, or delete their login credentials for different websites and applications.
 
